@@ -1,11 +1,9 @@
----
-title: "Quantitative Log Scanner (Python)"
-date: 2025-04-21
-categories: 
-  - "projects"
----
+# Quantitative Log Scanner – Python-Based Log Analysis Tool
 
-![](images/quantitative-log-scanner-design.png)
+This project focuses on log analysis for cybersecurity visibility. It processes and visualizes log data to uncover anomalies, access trends, and potential threats. Built in Python, it uses data parsing and reporting techniques to deliver actionable insights from raw logs.
+
+🔍 Use case: Identify suspicious login patterns, access spikes, and other events across log data.
+
 
 #### **Introduction**
 
