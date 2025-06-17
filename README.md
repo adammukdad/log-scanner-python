@@ -1,3 +1,21 @@
+# LogScan
+
+
+**LogScan** is a Python CLI tool for analyzing log files. It scans for keywords, assigns weights, detects failed logins, and generates HTML reports.
+
+## 🚀 Quickstart
+
+```bash
+git clone ...
+cd logscan
+python3 logscan.py \
+  --log-files /var/log/auth.log /var/log/syslog \
+  --max-weight 20 \
+  --threshold 5 \
+  --html-report report.html
+
+
+
 # Quantitative Log Scanner – Python-Based Log Analysis Tool
 
 This project focuses on log analysis for cybersecurity visibility. It processes and visualizes log data to uncover anomalies, access trends, and potential threats. Built in Python, it uses data parsing and reporting techniques to deliver actionable insights from raw logs.
@@ -186,21 +204,3 @@ if __name__ == "__main__":
 - I understand how logs tell a story and how to extract meaning
 
 - I’m comfortable using code to investigate, visualize, and communicate security insights
-
-
-# LogScan
-
-[![License: MIT]](...) [![Python]](...) [![Build Status]](...)
-
-**LogScan** is a Python CLI tool for analyzing log files. It scans for keywords, assigns weights, detects failed logins, and generates HTML reports.
-
-## 🚀 Quickstart
-
-```bash
-git clone ...
-cd logscan
-python3 logscan.py \
-  --log-files /var/log/auth.log /var/log/syslog \
-  --max-weight 20 \
-  --threshold 5 \
-  --html-report report.html
