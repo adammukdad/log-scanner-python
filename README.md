@@ -186,3 +186,21 @@ if __name__ == "__main__":
 - I understand how logs tell a story and how to extract meaning
 
 - I’m comfortable using code to investigate, visualize, and communicate security insights
+
+
+# LogScan
+
+[![License: MIT]](...) [![Python]](...) [![Build Status]](...)
+
+**LogScan** is a Python CLI tool for analyzing log files. It scans for keywords, assigns weights, detects failed logins, and generates HTML reports.
+
+## 🚀 Quickstart
+
+```bash
+git clone ...
+cd logscan
+python3 logscan.py \
+  --log-files /var/log/auth.log /var/log/syslog \
+  --max-weight 20 \
+  --threshold 5 \
+  --html-report report.html
