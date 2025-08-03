@@ -204,3 +204,9 @@ if __name__ == "__main__":
 - I understand how logs tell a story and how to extract meaning
 
 - I’m comfortable using code to investigate, visualize, and communicate security insights
+   
+## 👤 Author  
+**Adam Mukdad**  
+📧 [adammukdad97@gmail.com](mailto:adammukdad97@gmail.com)  
+🔗 [GitHub Portfolio](https://github.com/adammukdad)  
+🔗 [LinkedIn](https://www.linkedin.com/in/adammukdad/)  
