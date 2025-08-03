@@ -1,7 +1,7 @@
-# LogScan
+# LogScanner – Python
 
 
-**LogScan** is a Python CLI tool for analyzing log files. It scans for keywords, assigns weights, detects failed logins, and generates HTML reports.
+**LogScanner** is a Python CLI tool for analyzing log files. It scans for keywords, assigns weights, detects failed logins, and generates HTML reports.
 
 ## 🚀 Quickstart
 
