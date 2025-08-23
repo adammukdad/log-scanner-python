@@ -1,9 +1,12 @@
 # 🛡️ Quantitative Log Scanner
 
-![Platforms](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Security](https://img.shields.io/badge/Category-Security%20Tool-red)
+![Platforms](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![GitHub stars](https://img.shields.io/github/stars/adammukdad/aws-s3-auditor?style=social)
+![GitHub forks](https://img.shields.io/github/forks/adammukdad/aws-s3-auditor?style=social)
+![GitHub issues](https://img.shields.io/github/issues/adammukdad/aws-s3-auditor)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
