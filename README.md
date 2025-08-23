@@ -26,7 +26,7 @@
   - [Deactivate the Environment](#5-deactivate-the-environment-optional)
 - [🖼️ Screenshots](#screenshots)
 - [🚀 Future Enhancements](#-future-enhancements)
-- [⚠️ Challenges & Lessons Learned](#challenges-lessons-learned)
+- [⚠️ Challenges & Lessons Learned](#challenges--lessons-learned)
 
 ---
 
@@ -47,7 +47,7 @@
   - [Deactivate the Environment](#5-deactivate-the-environment-optional)
 - [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
-- [Challenges & Lessons Learned](#challenges-lessons-learned)
+- [Challenges & Lessons Learned](#challenges--lessons-learned)
 - [Key Takeaways for Hiring Managers](#key-takeaways-for-hiring-managers)
 - [Author](#author)
 
