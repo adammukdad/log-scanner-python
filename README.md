@@ -23,7 +23,7 @@
 - [Future Enhancements](#future-enhancements)  
 - [Challenges & Lessons Learned](#challenges--lessons-learned)  
 - [Key Takeaways for Hiring Managers](#key-takeaways-for-hiring-managers)  
-- [Author](#-author)  
+- [Author](#author)  
 
 ---
 
