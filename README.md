@@ -10,6 +10,23 @@
 
 ---
 
+## 📑 Table of Contents  
+- [Overview](#overview)  
+- [Key Features](#key-features)  
+- [Qualified & Quantified Impact](#qualified--quantified-impact)  
+- [Objectives Met](#objectives-met)  
+- [Sample Log Output](#sample-log-output)  
+- [Project Structure](#project-structure)  
+- [Tech Stack](#tech-stack)  
+- [How to Run](#how-to-run)  
+- [Screenshots](#screenshots)  
+- [Future Enhancements](#future-enhancements)  
+- [Challenges & Lessons Learned](#challenges--lessons-learned)  
+- [Key Takeaways for Hiring Managers](#key-takeaways-for-hiring-managers)  
+- [Author](#-author)  
+
+---
+
 ## 📌 Overview
 The **Quantitative Log Scanner** is a Python-based tool designed to parse log files, quantify log levels, and visualize the distribution of log severity in a clear and actionable way. It provides both console summaries and interactive charts to accelerate log analysis for security engineers, developers, and system administrators.
 
