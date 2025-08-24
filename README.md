@@ -11,27 +11,6 @@
 ---
 
 ## 📚 Table of Contents
-- [📌 Overview](#-overview)
-- [✨ Key Features](#-key-features)
-- [📊 Qualified & Quantified Impact](#-qualified--quantified-impact)
-- [🎯 Objectives Met](#-objectives-met)
-- [📝 Sample Log Output](#-sample-log-output)
-- [📂 Project Structure](#-project-structure)
-- [🛠️ Tech Stack](#tech-stack)
-- [⚡ How to Run](#-how-to-run)
-  - [Clone the Repository](#1-clone-the-repository)
-  - [Create a Virtual Environment](#2-create-a-virtual-environment-recommended)
-  - [Install Dependencies](#3-install-dependencies)
-  - [Run the Scanner](#4-run-the-scanner)
-  - [Deactivate the Environment](#5-deactivate-the-environment-optional)
-- [🖼️ Screenshots](#screenshots)
-- [🚀 Future Enhancements](#-future-enhancements)
-- [⚠️ Challenges & Lessons Learned](#challenges--lessons-learned)
-
----
-
-
-## 📚 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Qualified & Quantified Impact](#qualified--quantified-impact)
@@ -56,7 +35,8 @@
 <a id="overview"></a>
 ## 📌 Overview
 
-[⬆️ Back to top](#-table-of-contents)
+[⬆️ Back to top](#-table-of-contents) 
+
 The **Quantitative Log Scanner** is a Python-based tool designed to parse log files, quantify log levels, and visualize the distribution of log severity in a clear and actionable way. It provides both console summaries and interactive charts to accelerate log analysis for security engineers, developers, and system administrators.
 
 ---
@@ -97,6 +77,7 @@ The **Quantitative Log Scanner** is a Python-based tool designed to parse log fi
 ## 📝 Sample Log Output
 
 [⬆️ Back to top](#-table-of-contents)
+
 Example console output when scanning `sample_log.txt`:
 
 ```
@@ -220,6 +201,8 @@ deactivate
 
 <a id="key-takeaways-for-hiring-managers"></a>
 ## 💡 Key Takeaways for Hiring Managers
+
+[⬆️ Back to top](#-table-of-contents)
 - Demonstrates ability to build **practical, security-relevant utilities** in Python.
 - Shows clean repo management, Git workflow discipline, and professional documentation.
 - Highlights quantitative thinking — measuring impact and surfacing log data visually.
